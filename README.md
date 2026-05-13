@@ -22,8 +22,9 @@ java -jar dunes.jar
 ```bash
 java -jar dunes.jar -h
 
-Usage: dunes [-hV] -i=FILE [-m=m] [-n=n] [-o=<outputFolder>] [-y=y]
+Usage: dunes [-hV] -i=FILE [-m=m] [-n=n] [-o=<outputFolder>] [-y=y] [-d=d]
   -h, --help               Show this help message and exit.
+  -d, --distribution <distribution>       mutation model to use: 'simple' (equal-probability) or 'hiv' (HIV-like) (default: 'simple')
   -i, --inFile=FILE        input fasta file with viral sequences to be mutated
   -m, --mutation-rate=m    mutation rate in substitutions per nucleotide per year
                              (s/n/y) (default: 4.1e-3)
