@@ -4,7 +4,7 @@ A command line tool for introducing random mutations into DNA sequences.
 ## Download or Compilation
 
 - Download:
-[dunes.jar](https://github.com/Sergey-Knyazev/dunes/releases/download/0.1.1/dunes.jar)
+[dunes.jar](https://github.com/dacowan404/dunes/releases/tag/0.1.2/dunes-jar-with-dependencies.jar)
 
 - Compilation:
 ```bash
