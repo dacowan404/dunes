@@ -2,6 +2,10 @@
 
 DUNES introduces random mutations into DNA FASTA sequences and writes synthetic descendant sequences.
 
+ - Download full version with GUI: [dunes-full.jar](https://github.com/dacowan404/dunes/releases/download/0.2/dunes-full.jar)
+ - Download command line only version: [dunes-cli.jar](https://github.com/dacowan404/dunes/releases/download/0.2/dunes-cli.jar)
+ - Download user manual: [Dunes User Manual](https://github.com/dacowan404/dunes/releases/download/0.2/DUNES_User_Manual.docx)
+
 ## Requirements
 
 - Java 11 or newer is recommended.
